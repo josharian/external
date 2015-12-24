@@ -10,7 +10,7 @@
 
 ##Overview
 
-External provides a mechanism to add struct-based APIs to commad-line tools.
+External provides a mechanism to add struct-based APIs to command-line tools.
 
 ## Citing ##
 
